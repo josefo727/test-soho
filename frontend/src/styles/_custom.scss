@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'Graphik-Extralight';
+  src: url('assets/fonts/Graphik-Extralight.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  line-height: 1.5;
+}
+#app {
+  font-family: 'Graphik-Extralight', serif;
+}
+.btn-soho {
+  color: #fff !important;
+  background-color: #02B300 !important;
+  border-color: #02B300 !important;
+}
+.btn-soho:hover {
+  color: #fff !important;
+  background-color: #016500 !important;
+  border-color: #016500 !important;
+}
+.btn-outline-soho {
+  color: #016500 !important;
+  border-color: #016500 !important;
+}
+.btn-outline-soho:hover {
+  color: #fff !important;
+  background-color: #02B300 !important;
+  border-color: #02B300 !important;
+}
+.bg-section {
+  background: #273138 !important;
+}
